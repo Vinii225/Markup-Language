@@ -1,0 +1,23 @@
+#head{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    background-color: gray;
+}
+
+#text{
+    color: red;
+}
+
+#p2{
+    font-style: italic; 
+}
+
+#blue{
+    color: blue;
+}
+
+#p3{
+    color: red;
+    font-style: italic;
+}
